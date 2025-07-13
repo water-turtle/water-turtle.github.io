@@ -16,11 +16,11 @@ tags:
 
 ### 配对公理
 
-对于$\forall a,b, \exist \left\{a,b\right\}只包含a,b$
+对于$\forall a,b, \exist \{a,b\}只包含a,b$
 
 ### 分离模式公理
 
-令$\varphi(n, p_1, p_2, \dots, p_n)$是表达式，$\forall X和\forall p_1, p_2, \dots ,p_n$，$\exist Y, Y=\left\{u\in X\mid \varphi(u, p_1, p_2, \dots, p_n) \right\}$
+令$\varphi(n, p_1, p_2, \dots, p_n)$是表达式，$\forall X和\forall p_1, p_2, \dots ,p_n$，$\exist Y, Y=\{u\in X\mid \varphi(u, p_1, p_2, \dots, p_n) \}$
 
 说明所有集合存在子集，但限制从集合中已有的元素进行构造
 
@@ -44,7 +44,7 @@ tags:
 
 ### 替换模式公理
 
-如果类$F$是函数, 则对任意集合$X$存在集合$Y=F\left(X\right)={F\left(x\right)|x\in X}$
+如果类$F$是函数, 则对任意集合$X$存在集合$Y=F(X)={F(x) \mid x \in X}$
 
 ### 正则公理
 
